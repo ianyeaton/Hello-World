@@ -12,3 +12,4 @@ with open("data_file.json", "r") as info:
 
 
 
+# Notes
